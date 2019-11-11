@@ -1,8 +1,8 @@
-Origin; Kraynor90
-Label: kr0nors 
+Origin:kran0r-s-repo
+Label: kran0r-s-repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: kran0r-s-repo
 Architectures: iphoneos-arm
 Components: main
-Description: kyleraynors
+Description: kran0r-s-repo
